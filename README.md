@@ -11,4 +11,4 @@ Kaizen Robotics Program is a certificate training program aimed at providing stu
 - Pulse Width Modulation (Register Level Programming)
 - Table Top Robot (Register Level Programming)
 - Serical Communication (Register Level Programming)
-- [Hand- writing Robot (Arduino)](https://github.com/adithyamn/HandWriting-Robot)
+- Hand- Writing Robot (Arduino) [Link](https://github.com/adithyamn/HandWriting-Robot)
