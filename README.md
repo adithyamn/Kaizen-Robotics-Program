@@ -15,11 +15,11 @@ Kaizen Robotics Program is a certificate training program aimed at providing stu
 
 ### Kaizen Robotics Program: Level - 2
 
-- Manually Controlled Robot
-- MEMS Acelerometer based Gesture Controlled Robot
-- Gesture Controlled Pick and Place Robot
-- Wireless Communication
-- Computer Controlled Robot
-- Serial Communication
-- Maze Solving Robot
-- Maze Solver With Shortest Path Algorithm [Link](https://github.com/adithyamn/Maze-Solver-with-Shortest-Path-Algorithm)
+- Manually Controlled Robot (Arduino)
+- MEMS Acelerometer based Gesture Controlled Robot (Arduino)
+- Gesture Controlled Pick and Place Robot (Arduino)
+- Wireless Communication (Arduino)
+- Computer Controlled Robot (Arduino)
+- Serial Communication (Arduino)
+- Maze Solving Robot (Arduino)
+- Maze Solver With Shortest Path Algorithm (Arduino) [Link](https://github.com/adithyamn/Maze-Solver-with-Shortest-Path-Algorithm)
